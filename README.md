@@ -6,5 +6,6 @@ https://github.com/ruanyf/weekly
 https://github.com/521xueweihan/HelloGitHub  
 https://www.zhihu.com/column/mm-fe  
 
-[科学上网](https://xn--5hqx9equq.com/#/knowledge)
+[科学上网]（https://xn--5hqx9equq.com/#/register?code=80r8WoEl）
+邀请码：80r8WoEl
 
