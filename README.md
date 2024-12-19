@@ -31,7 +31,8 @@
 1. iphone和ipad使用美区Apple账号下载**shadowrocket**
 2. 一键导入
 ---
-#### 以上在相应设备的浏览器登录两元店的网址，一键导入最方便
+#### 以上在相应设备的浏览器登录两元店的网址，一键导入最方便 
+[两元店.online](两元店.online)
 ---
 #### 其他方式使用clash
 ![一键订阅](https://github.com/Wangfugui1799/study_git/blob/main/picture/%E4%B8%80%E9%94%AE%E8%AE%A2%E9%98%85.png)
