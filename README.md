@@ -1,16 +1,10 @@
-# study_git
-从零开始学习github  
-
-https://github.com/trending  
-https://github.com/ruanyf/weekly  
-https://github.com/521xueweihan/HelloGitHub  
-https://www.zhihu.com/column/mm-fe  
+#  如何科学上网
 
 
 ### [18元/季度，1024GB/月，可以同时3台设备一起使用](https://xn--5hqx9equq.com/#/register?code=80r8WoEl) 
 **网速亲测youtube8K视频流畅播放** 
-***节点有日本新加坡香港美国英国卢森堡澳大利亚 可稳定登录chatGPT***
-![两元店套餐](https://github.com/Wangfugui1799/study_git/blob/main/%E4%B8%A4%E5%85%83%E5%BA%97%E5%A5%97%E9%A4%90.png)
+***节点有日本新加坡香港美国英国卢森堡澳大利亚 可稳定登录chatGPT*** 
+![两元店套餐](https://github.com/Wangfugui1799/study_git/blob/main/picture/%E4%B8%A4%E5%85%83%E5%BA%97%E5%A5%97%E9%A4%90.png)
 #### [科学上网网址](https://xn--5hqx9equq.com/#/register?code=80r8WoEl)  
 邀请码：**80r8WoEl** 
 [如果上面的科学上网的网站上不去就点这个](https://两元店.online/#/login) 
@@ -40,11 +34,12 @@ https://www.zhihu.com/column/mm-fe
 #### 以上在相应设备的浏览器登录两元店的网址，一键导入最方便
 ---
 #### 其他方式使用clash
+![一键订阅](https://github.com/Wangfugui1799/study_git/blob/main/picture/%E4%B8%80%E9%94%AE%E8%AE%A2%E9%98%85.png)
 ##### 方法一
 1. 仪表盘 - **一键订阅** - 导入到Clash
 2. 调到**规则模式** - 勾选打开**系统代理**
 3. 测试 [谷歌](https://www.google.com.hk/)
-##### 放法二
+##### 方法二
 1. **复制订阅地址**
 2. 粘贴订阅链接地址
 3. 下载
@@ -57,8 +52,8 @@ https://www.zhihu.com/column/mm-fe
 5. 右上角保存
 
 ### 如何使用clash
-1. 在代理中选择节点
-2. 点击启动
-3. 默认是规则模式
+1. 点击启动
+2. 在代理中选择节点
+3. 如果要更改代理模式进入代理点击右上角三个点
 
 
