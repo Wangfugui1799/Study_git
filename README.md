@@ -2,7 +2,7 @@
 
 
 ### [18元/季度，1024GB/月，可以同时3台设备一起使用](https://xn--5hqx9equq.com/#/register?code=80r8WoEl) 
-**网速亲测youtube8K视频流畅播放** 
+**网速亲测youtube4K视频流畅播放** 
 ***节点有日本新加坡香港美国英国卢森堡澳大利亚 可稳定登录chatGPT*** 
 ![两元店套餐](https://github.com/Wangfugui1799/study_git/blob/main/picture/%E4%B8%A4%E5%85%83%E5%BA%97%E5%A5%97%E9%A4%90.png)
 #### [科学上网网址](https://xn--5hqx9equq.com/#/register?code=80r8WoEl)  
